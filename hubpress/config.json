@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "caulk",
-    "repositoryName": "caulk.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"caulk","repositoryName":"caulk.github.io","branch":"master"},"site":{"title":"TestBlog　テストブログ","description":"TestTestTest\n日本語のテスト\nあかさたなはまやらわ","url":"https://caulk.github.io"},"socialnetwork":{"twitter":"@caulk"},"theme":{"name":"Casper","url":"https://caulk.github.io/themes/Casper"}}
